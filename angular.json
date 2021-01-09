@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Yael"
+  "defaultProject": "Yael",
+  "cli": {
+    "analytics": "3c43146b-aaca-40a7-898e-a46957b73b38"
+  }
 }
